@@ -1,6 +1,5 @@
 # django setup
-import setup
-
+from setup import *
 from db.models import User
 
 

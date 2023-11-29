@@ -1,5 +1,4 @@
-# django setup
-from setup import *
+from django_orm import *
 from db.models import User
 
 
